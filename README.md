@@ -12,7 +12,7 @@ Este projeto monitora a temperatura ambiente usando um sensor LM35 e controla um
 - Protoboard e cabos jumper
 
 ### Diagrama de Circuito
-![Diagrama do Circuito no Tinkercad](circuito.png)
+![Diagrama do Circuito no Tinkercad](Simulacao_estufa.png)
 
 
   
