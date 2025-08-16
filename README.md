@@ -75,7 +75,8 @@ void loop() {
 Este projeto está sob a Licença MIT.
 
 ### Créditos
-- Desenvolvido por [Luizbl03]
+- Desenvolvido por Luiz B. Lima
+- **email:**luizbl03@gmail.com
 
 
   
