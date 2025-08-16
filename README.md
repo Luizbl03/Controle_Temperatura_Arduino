@@ -76,7 +76,7 @@ Este projeto está sob a Licença MIT.
 
 ### Créditos
 - Desenvolvido por Luiz B. Lima
-- **email:**luizbl03@gmail.com
+- email:luizbl03@gmail.com
 
 
   
