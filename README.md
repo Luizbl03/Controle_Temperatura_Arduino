@@ -23,7 +23,8 @@ Este projeto monitora a temperatura ambiente usando um sensor LM35 e controla um
 ![Diagrama do Circuito no Tinkercad](Simulacao_estufa.png)
 
 ### Código
-// Definições de pinos
+```c++
+//Definições de pinos
 const int sensorPin = A0;
 const int relePin = 2;
 const int ledPin = 3;
@@ -38,22 +39,20 @@ void setup() {
 
 void loop() {
 	int leitura = analogRead(sensorPin);
-  
+  
 	// Conversão da leitura para temperatura em Celsius
 	float tensao = leitura * (5.0 / 1023.0);
 	float temperatura = (tensao - 0.5) * 100;
 	Serial.print("Temperatura: ");
 	Serial.println(temperatura);
-  
+  
 	// Controle da ventoinha
 	if (temperatura >= 30) {
 		digitalWrite(relePin, HIGH); // Liga ventoinha
-
-
 	} else {
 		digitalWrite(relePin, LOW); // Desliga ventoinha
 	}
-  
+  
 	// Alerta de temperatura crítica
 	if (temperatura >= 50) {
 		digitalWrite(ledPin, HIGH);
@@ -62,9 +61,10 @@ void loop() {
 		digitalWrite(ledPin, LOW);
 		digitalWrite(buzzerPin, LOW);
 	}
-  
+  
 	delay(2000); // Aguarda 2 segundos
 }
+```
 
 
   
