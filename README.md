@@ -1,7 +1,7 @@
 # Controle de Temperatura com TMP36 e Arduino
-**Autor:**[Luizbl03]
-**Data:** 16 de Agosto de 2025
-Este projeto monitora a temperatura ambiente usando um sensor LM35 e controla um cooler (ventoinha) para resfriar um sistema quando a temperatura atinge 30°C. O circuito também possui um LED e um buzzer que alertam quando a temperatura atinge um nível crítico de 50°C.
+##**Autor:**[Luizbl03](https://github.com/Luizbl03/Controle_Temperatura_Arduino.git)
+###**Data:** 16 de Agosto de 2025
+####Este projeto monitora a temperatura ambiente usando um sensor LM35 e controla um cooler (ventoinha) para resfriar um sistema quando a temperatura atinge 30°C. O circuito também possui um LED e um buzzer que alertam quando a temperatura atinge um nível crítico de 50°C.
 
 ### Componentes
 | Nome | Quantidade | Componente |
