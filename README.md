@@ -26,7 +26,7 @@ Este projeto monitora a temperatura ambiente usando um sensor TMP36 e controla u
 | R7 | 1 | 330 kΩ Resistor |
 
 ### Diagrama de Circuito
-<iframe src="Controle_Temperatura_Arduino/DiagramaDoProjeto.pdf" width="600" height="400" style="border:none;"></iframe>
+[Ver o Diagrama do Projeto em PDF](DiagramaDoProjeto.pdf)
 
 ### Montagem do Circuito
 ![Monatagem do Circuito no Tinkercad](Simulacao_estufa.png)
