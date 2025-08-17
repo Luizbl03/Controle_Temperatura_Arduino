@@ -26,10 +26,10 @@ Este projeto monitora a temperatura ambiente usando um sensor TMP36 e controla u
 | R7 | 1 | 330 kΩ Resistor |
 
 ### Diagrama de Circuito
-<iframe src="Simulação de uma estufa - Desafio DIO.pdf" width="600" height="400" style="border:none;"></iframe>
+<iframe src="DiagramaDoProjeto.pdf" width="600" height="400" style="border:none;"></iframe>
 
 ### Montagem do Circuito
-![Diagrama do Circuito no Tinkercad](Simulacao_estufa.png)
+![Monatagem do Circuito no Tinkercad](Simulacao_estufa.png)
 
 ### Link do tinkercad
 [link do projeto](https://www.tinkercad.com/things/dRZgdmGuruv-simulacao-de-uma-estufa-desafio-dio/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=mNzGSYtVFysExwqb0qu0_Y5QCxflenbc-S-96FUPHV8)
